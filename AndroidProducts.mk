@@ -15,10 +15,10 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_DRG.mk
+    $(LOCAL_DIR)/lmodroid_DRG.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_DRG-eng \
-    lineage_DRG-user \
-    lineage_DRG-userdebug
+    lmodroid_DRG-eng \
+    lmodroid_DRG-user \
+    lmodroid_DRG-userdebug
 
