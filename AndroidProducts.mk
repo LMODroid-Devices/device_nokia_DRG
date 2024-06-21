@@ -16,9 +16,3 @@
 
 PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/lmodroid_DRG.mk
-
-COMMON_LUNCH_CHOICES := \
-    lmodroid_DRG-eng \
-    lmodroid_DRG-user \
-    lmodroid_DRG-userdebug
-
